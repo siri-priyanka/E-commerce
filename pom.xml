@@ -75,14 +75,14 @@
 		</plugins>
 	</build>
 	<distributionManagement>
-    <repository>
-      <id>maven-releases</id>
-      <url>http://3.85.184.133:8081/repository/maven-releases/</url>
-    </repository>
-    <snapshotRepository>
-      <id>maven-snapshots</id>
-      <url>http://3.85.184.133:8081/repository/maven-snapshots/</url>
-    </snapshotRepository>
-  </distributionManagement>
+	    <repository>
+	    	<id>maven-releases</id>
+	      	<url>http://65.0.95.53:8081/repository/maven-releases/</url>
+	    </repository>
+	    <snapshotRepository>
+	      	<id>maven-snapshots</id>
+	      	<url>http://65.0.95.53:8081/repository/maven-snapshots/</url>
+	    </snapshotRepository>
+	</distributionManagement>
 
 </project>
