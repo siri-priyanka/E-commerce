@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: vmns/cicd
+        image: siripriyanka/eks
         ports:
         - containerPort: 8080
